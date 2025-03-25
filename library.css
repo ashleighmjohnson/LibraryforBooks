@@ -1,0 +1,60 @@
+html {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+h1{
+    text-align: center;
+    margin: 40px;
+    font-size: 50px;
+    background-color: gainsboro;
+    border-radius: 5px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+#bookFormContainer{
+    text-align: center;
+}
+input {
+    margin: 10px; 
+}
+#newBookBtn {
+    margin: 0 auto;
+    display: block;
+}
+#bookList {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+  }
+.book-card {
+    background: gainsboro;
+    padding: 15px;
+    width: 250px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    
+    flex-direction: column;
+    gap: 10px;
+    transition: transform 0.3s ease-in-out;
+    margin-top: 20px;
+  }
+  .book-card:hover {
+    transform: scale(1.01);
+  }
+  button {
+    background-color: #0095ff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  button:hover {
+    background-color: rgb(1, 77, 160);
+  }
