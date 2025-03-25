@@ -25,6 +25,7 @@ Github repository: https://github.com/ashleighmjohnson/LibraryforBooks
 - Separate spaces for Books read / Not Read
 - Let users have the option to add comments
 - Star system so users can rate the books 1/1.5/2/1.5/3/3.5/4/4.5/5 stars
+- Better UI 
   
 
 ## Learning Outcomes
