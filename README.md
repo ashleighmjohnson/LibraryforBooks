@@ -3,8 +3,8 @@
 Add books you would like to read or ones you have read already.
 ## *Photos*
 ![image](https://github.com/user-attachments/assets/9217f6b5-fa62-4a6b-8317-89d4f418411a)
-![image](https://github.com/user-attachments/assets/3f6032e3-9375-464f-b749-638d74b5ea7b)
-![image](https://github.com/user-attachments/assets/2aa0edbe-26ad-43e9-97ec-fa5034814592)
+![image](https://github.com/user-attachments/assets/051975be-e16b-4a91-93cf-9998cc8016e5)
+
 
 
 ## *Technologies used*
@@ -30,3 +30,8 @@ Github repository: https://github.com/ashleighmjohnson/LibraryforBooks
 
 ## Learning Outcomes
 I learned how to handle JavaScript with 'adding' or 'creating' elements of html to the page as users complete the forms. For example: the book cards
+
+## Chutzpah
+- Added a rating system 1-5
+  - Cannot enter a number above/below that or error happens
+  - Sorts based on rating
